@@ -1,4 +1,4 @@
-- 
-RUGOGAMUNOELA/RUGOGAMUNOELA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my git profie
+I am currently a student at UCU
+I am conversant with python , javascript , CSS , HTML ,R Script and SQL
+Enjoy!!
